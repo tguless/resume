@@ -1,0 +1,1 @@
+Worked as a contractor with a Vignette architect role at Aventis to design a backbone for managing content on 6 disease portals using JSP, EJB’s and Vignette.  Built content delivery pages for 3 of the disease portals, that utilized a hierarchical navigation and provided personalization, user profiles, calendaring and community functions.    
