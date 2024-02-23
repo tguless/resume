@@ -80,9 +80,9 @@ Docker, Kubernetes, Helm, DevOps, CI-CD, Jenkins, SpringMVC, ReactJS, Spring Dat
 #### Team Leadership and Operations Enhancement
 
 * **Team Leadership :** Led a high-performing team in the modernization of the company's media transcoding solutions, ensuring increased productivity and up-to-date tech practices.
-     ession Help : Provided mentorship to help members of the org support each other by rewarding and nurturing a sharing culture which ensured top performing talent stayed with the team. 
+* **Career Progression Help :** Provided mentorship to help members of the org support each other by rewarding and nurturing a sharing culture which ensured top performing talent stayed with the team. 
 * **Educating the IT Org on Emerging Technologies on the Cloud :** Led informative sessions on various topics, including log aggregation with ElasticSearch. This initiative improved the team's technical acumen, enabling them to leverage cutting-edge cloud solutions for enhanced system performance, increased efficiency in troubleshooting, and comprehensive data analysis, thus driving innovation and operational excellence in the organization.
-     est Practices and Cloud Native Architecture Evangelization : Reduced Mean Time to Repair (MTTR) and outage windows, enhancing system reliability and minimizing disruption. Paved the way for the company to transition from legacy platforms to a cloud-native architecture, promoting scalability and efficiency.
+* **Operations Best Practices and Cloud Native Architecture Evangelization :** Reduced Mean Time to Repair (MTTR) and outage windows, enhancing system reliability and minimizing disruption. Paved the way for the company to transition from legacy platforms to a cloud-native architecture, promoting scalability and efficiency.
 
 #### Platform Integration, Serverless Solutions, and New Services
 
