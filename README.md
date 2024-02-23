@@ -36,8 +36,8 @@ Docker, Kubernetes, Helm, DevOps, CI-CD, Jenkins, SpringMVC, ReactJS, Spring Dat
 
 #### ERP and Data Warehouse Management
 
-* **ERP Platform Updates :**  Integrated SOAP API with Java Spring Boot and Postgres to develop inventory and budget forecasting reports, enhancing supply chain insights. Enabled Power BI dashboards for improved data visualization and utilized Azure Container Instances for efficient web-based report delivery.
-* **Data Warehouse Development :**  Delivered mission-critical changes to Oracle Netsuite, aligning the system more closely with organizational needs and stakeholder requirements ensuring warehouse operations could manage the inventory, and manufacturing can track drug production. 
+* **Data Warehouse Development :** Integrated SOAP API with Java Spring Boot and Postgres to develop inventory and budget forecasting reports, enhancing supply chain insights. Enabled Power BI dashboards for improved data visualization and utilized Azure Container Instances for efficient web-based report delivery.
+* **ERP Platform Updates :** Delivered mission-critical changes to Oracle Netsuite, aligning the system more closely with organizational needs and stakeholder requirements ensuring warehouse operations could manage the inventory, and manufacturing can track drug production. 
 
 #### Infrastructure Development and Cloud Migration
 
