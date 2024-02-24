@@ -87,9 +87,9 @@ Docker, Kubernetes, Helm, DevOps, CI-CD, Jenkins, SpringMVC, ReactJS, Spring Dat
 #### Platform Integration, Serverless Solutions, and New Services
 
 * **AWS Batch Serverless Solution and Telestream Platform Integration** : Massively increased company's transcode capacity and optimized data handling and partner deliveries, accommodating larger workloads and improving service delivery.
-     ervices Introduction : Expanded the company's capabilities with upcoming audio formats, staying ahead of the curve and offering innovative solutions.
+* **New Transcode Services Introduction : Expanded the company's capabilities with upcoming audio formats, staying ahead of the curve and offering innovative solutions.
 * **Micro Service Migration :** Segmented a monolithic code base into smaller purpose focused libraries using JAVA Maven child-parent relationship to  allow for independent focused development teams improving development efficiency and speed, enhancing code maintainability, improving scalability, facilitating specialization and reducing risk.
-     orm Orchestration On-Boarding : Deployed the company’s transcoder platform on Kubernetes using HELM scripts, enhancing scalability, availability, and resource efficiency of the system, ensuring uninterrupted service and improved operational cost-effectiveness.
+* **Container Platorm Orchestration On-Boarding : Deployed the company’s transcoder platform on Kubernetes using HELM scripts, enhancing scalability, availability, and resource efficiency of the system, ensuring uninterrupted service and improved operational cost-effectiveness.
 * **Cloud Infosec :** Ensured safe transition to a micro-service architecture without additional risks utilizing services like WAF and Role Based IAM, safeguarding business integrity and security.
 
 #### Monitoring, Pipeline Optimization, and Automated Testing 
